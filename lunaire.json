@@ -1,0 +1,10 @@
+{
+  "name": "mockLunaire",
+  "image": "https://raw.githubusercontent.com/Lunairefine/mocknft/refs/heads/main/lunaire.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Human"
+    }
+  ]
+}
